@@ -7,7 +7,7 @@ Passionate about ensuring software quality through automation and manual testing
 ---
 
 ### 📌 About Me
-- 🔍 6+ years of experience in **Test Automation & QA**.
+- 🔍 8+ years of experience in **Test Automation & QA**.
 - 🏆 Specialized in **Web & Mobile App Testing** (Android & iOS).
 - ⚡ Strong in **API Automation, Database Testing, and CI/CD Integration**.
 - 🌱 Constantly learning and exploring new testing frameworks & technologies.
@@ -46,10 +46,6 @@ Passionate about ensuring software quality through automation and manual testing
 #### ✅ **API Automation Suite**
 - **Tech Stack:** Rest Assured, Postman, MySQL, Jenkins
 - **Features:** Automated REST API validation, Database validation, Token-based authentication testing.
-
-#### ✅ **Performance & Load Testing**
-- **Tech Stack:** JMeter, BlazeMeter, Azure DevOps
-- **Features:** API Load Testing, Response time benchmarking, Performance tuning.
 
 ---
 
