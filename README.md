@@ -49,6 +49,12 @@ Passionate about ensuring software quality through automation and manual testing
 
 ---
 
+### <img src='https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif' width='25' /> My GitHub Stats:
+![Anil's github stats](https://github-readme-stats.vercel.app/api?username=anilds&show_icons=true&title_color=ffc857&icon_color=8ac926&text_color=daf7dc&bg_color=151515&hide=issues&count_private=true&include_all_commits=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anilds&layout=compact&text_color=daf7dc&bg_color=151515&hide=css,html,php)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=anilds&theme=dark)](https://git.io/streak-stats)
+
+---
 ### 📫 Let's Connect!
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Anil%20D%20Shivanakkanavar-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/anil-ds)
 [![GitHub](https://img.shields.io/badge/GitHub-AnilDS-black?style=for-the-badge&logo=github)](https://github.com/anildsqa)
