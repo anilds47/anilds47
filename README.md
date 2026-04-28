@@ -7,7 +7,7 @@ Passionate about ensuring software quality through automation and manual testing
 ---
 
 ### 📌 About Me
-- 🔍 8+ years of experience in **Test Automation & QA**.
+- 🔍 9+ years of experience in **Test Automation & QA**.
 - 🏆 Specialized in **Web & Mobile App Testing** (Android & iOS).
 - ⚡ Strong in **API Automation, Database Testing, and CI/CD Integration**.
 - 🌱 Constantly learning and exploring new testing frameworks & technologies.
