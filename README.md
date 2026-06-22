@@ -100,4 +100,4 @@ I integrate **MCP Servers** to let LLMs directly interact with testing tools —
 
 ---
 
-#### 🚀 Keep Exploring, Keep Testing, Keep MCP-Ing the Future! 🔥
+#### 🚀 Keep Exploring, Keep Testing, Keep MCP the Future! 🔥
